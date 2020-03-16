@@ -1,0 +1,102 @@
+{
+    "total": 5,
+    "businesses": [
+      {
+        "id": "LVXDZ167oWvRSyPDt9q18g",
+        "name": "Bu\u0142k\u0119 przez Bibu\u0142k\u0119",
+        "image_url":
+          "https://s3-media1.fl.yelpcdn.com/bphoto/3_o2Da_YuaLhqM08PoK5lA/o.jpg",
+        "is_closed": false,
+        "url":
+          "https://www.yelp.com/biz/bu%C5%82k%C4%99-przez-bibu%C5%82k%C4%99-warszawa-2?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+        "categories": [
+          { "alias": "cafes", "title": "Cafes" },
+          { "alias": "breakfast_brunch", "title": "Breakfast & Brunch" },
+          { "alias": "bagels", "title": "Bagels" }
+        ],
+        "rating": 4.5,
+        "location": {
+          "display_address": ["ul. Zgoda 3", "00-012 Warsaw", "Poland"]
+        },
+        "phone": "+48730285522"
+      },
+      {
+        "id": "oyJClDm8uMUnUICgx-kc3A",
+        "name": "Cukiernia Paw\u0142owicz",
+        "image_url":
+          "https://s3-media3.fl.yelpcdn.com/bphoto/uXBTFUfMoft7Hv0yxR_34Q/o.jpg",
+        "is_closed": false,
+        "url":
+          "https://www.yelp.com/biz/cukiernia-paw%C5%82owicz-warszawa?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+        "categories": [
+          { "alias": "donuts", "title": "Donuts" },
+          { "alias": "bakeries", "title": "Bakeries" },
+          { "alias": "desserts", "title": "Desserts" }
+        ],
+        "rating": 5.0,
+        "location": {
+          "display_address": ["ul. Chmielna 13", "00-021 Warsaw", "Poland"]
+        },
+        "phone": "+48228574771"
+      },
+      {
+        "id": "hQs2S_nOD9TFcN2SHKx5iw",
+        "name": "Pijalnia Czekolady E. Wedel",
+        "image_url":
+          "https://s3-media2.fl.yelpcdn.com/bphoto/fLhWwXt30Yw8MtwTJi3PNA/o.jpg",
+        "is_closed": false,
+        "url":
+          "https://www.yelp.com/biz/pijalnia-czekolady-e-wedel-warszawa-5?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+        "categories": [
+          { "alias": "desserts", "title": "Desserts" },
+          { "alias": "cafes", "title": "Cafes" }
+        ],
+        "rating": 4.0,
+        "location": {
+          "display_address": ["ul. Szpitalna 8", "00-031 Warsaw", "Poland"]
+        },
+        "phone": "+48228272916"
+      },
+      {
+        "id": "BjSDBczmcadNZXnIjXGGDA",
+        "name": "Cophi",
+        "image_url":
+          "https://s3-media1.fl.yelpcdn.com/bphoto/0ibCbLwEV24vyKWzGdvl3g/o.jpg",
+        "is_closed": false,
+        "url":
+          "https://www.yelp.com/biz/cophi-warszawa?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+        "categories": [
+          { "alias": "cafes", "title": "Cafes" },
+          { "alias": "coffee", "title": "Coffee & Tea" },
+          { "alias": "desserts", "title": "Desserts" }
+        ],
+        "rating": 4.5,
+        "location": {
+          "display_address": ["ul. Ho\u017ca 58 / 60", "00-682 Warsaw", "Poland"]
+        },
+        "phone": "+48513422908"
+      },
+      {
+        "id": "Cw6Xl2W1P9nozPy9yOQDJw",
+        "name": "Ministerstwo Kawy",
+        "image_url":
+          "https://s3-media2.fl.yelpcdn.com/bphoto/gVYJGbxGtVAW0clxp4Vxiw/o.jpg",
+        "is_closed": false,
+        "url":
+          "https://www.yelp.com/biz/ministerstwo-kawy-warszawa?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+        "categories": [
+          { "alias": "cafes", "title": "Cafes" },
+          { "alias": "coffee", "title": "Coffee & Tea" }
+        ],
+        "rating": 4.0,
+        "location": {
+          "display_address": [
+            "ul. Marsza\u0142kowska 27/35",
+            "00-639 Warszawa",
+            "Poland"
+          ]
+        },
+        "phone": "+48503080906"
+      }
+    ]
+  }

@@ -1,0 +1,47 @@
+.self {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+}
+
+.bgCover {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: repeating-linear-gradient(45deg,
+    rgba(0,0,0,.6),
+    rgba(0,0,0,.6) 5px,
+    rgba(0,0,0,.65) 0,
+    rgba(0,0,0,.65) 10px)
+    , transparent;
+}
+
+.contentContainer {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header {
+    margin-bottom: 3rem;
+}
+
+.searchContainer {
+    min-width: 6rem;
+    width: 50%;
+}

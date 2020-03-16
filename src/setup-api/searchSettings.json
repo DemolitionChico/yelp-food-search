@@ -1,0 +1,7 @@
+{
+    "maxKmRange": 40,
+    "defaultRadius": 10,
+    "defaultLocation": "",
+    "categoriesFilter": "food",
+    "defaultLimit": 24
+}

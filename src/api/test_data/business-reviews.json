@@ -1,0 +1,45 @@
+{
+  "reviews": [
+    {
+      "id": "NDmTXEPv7bZnhDa7gysQBg",
+      "url": "https://www.yelp.com/biz/cukiernia-paw%C5%82owicz-warszawa?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&hrid=NDmTXEPv7bZnhDa7gysQBg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+      "text": "Wonderful donut shop on Chimelna where my favourite bubble tea and pho restaurant were. Unlike any of the donut shops in the USA,  I found that their donuts...",
+      "rating": 5,
+      "time_created": "2019-05-15 05:22:56",
+      "user": {
+        "id": "zaLFGVf6O4HXQCDq6Tb5Hw",
+        "profile_url": "https://www.yelp.com/user_details?userid=zaLFGVf6O4HXQCDq6Tb5Hw",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/photo/BWZaKoF8FV0nQImpquVB-g/o.jpg",
+        "name": "Laxiaozi L."
+      }
+    },
+    {
+      "id": "0pLUA6NhegGxKZ-xdNOI7A",
+      "url": "https://www.yelp.com/biz/cukiernia-paw%C5%82owicz-warszawa?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&hrid=0pLUA6NhegGxKZ-xdNOI7A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+      "text": "What a gem.  Saw a line of people so thought it might be a good thing and it was.  No joke it was so good that wife took a bite and I ate the rest without...",
+      "rating": 5,
+      "time_created": "2016-03-11 15:10:07",
+      "user": {
+        "id": "780RjkQsCoeTgaesQgxp0w",
+        "profile_url": "https://www.yelp.com/user_details?userid=780RjkQsCoeTgaesQgxp0w",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/photo/cE9LxI7B3GmjjAS--UqHpw/o.jpg",
+        "name": "Lou M."
+      }
+    },
+    {
+      "id": "OZ2fLPmzEs6-wzj2hnz4Sg",
+      "url": "https://www.yelp.com/biz/cukiernia-paw%C5%82owicz-warszawa?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&hrid=OZ2fLPmzEs6-wzj2hnz4Sg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+      "text": "I really love the \"p\u0105czki\" of \"Cukiernia Paw\u0142owicz\". I've tried them in other places, and, I have to say that here you can find the best ones, at least in...",
+      "rating": 5,
+      "time_created": "2015-04-10 05:49:41",
+      "user": {
+        "id": "wmrQKMqRcK9woTD8jVpB2A",
+        "profile_url": "https://www.yelp.com/user_details?userid=wmrQKMqRcK9woTD8jVpB2A",
+        "image_url": "https://s3-media3.fl.yelpcdn.com/photo/XVzN1QG-n0EroFCz-CYDgA/o.jpg",
+        "name": "In\u00e9s I."
+      }
+    }
+  ],
+  "total": 31,
+  "possible_languages": ["en", "pl", "es", "sv"]
+}

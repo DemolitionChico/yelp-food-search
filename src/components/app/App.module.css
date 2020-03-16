@@ -1,0 +1,8 @@
+.title {
+    flex-grow: 1;
+    display: block;
+}
+
+.logo {
+  height: 2rem;
+}

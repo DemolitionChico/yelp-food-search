@@ -1,0 +1,55 @@
+{
+  "id": "oyJClDm8uMUnUICgx-kc3A",
+  "alias": "cukiernia-paw\u0142owicz-warszawa",
+  "name": "Cukiernia Paw\u0142owicz",
+  "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uXBTFUfMoft7Hv0yxR_34Q/o.jpg",
+  "is_claimed": false,
+  "is_closed": false,
+  "url": "https://www.yelp.com/biz/cukiernia-paw%C5%82owicz-warszawa?adjust_creative=QIta4g4-1fciUDzJg7Ug3A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=QIta4g4-1fciUDzJg7Ug3A",
+  "phone": "+48228574771",
+  "display_phone": "+48 22 857 47 71",
+  "review_count": 31,
+  "categories": [
+    { "alias": "donuts", "title": "Donuts" },
+    { "alias": "bakeries", "title": "Bakeries" },
+    { "alias": "desserts", "title": "Desserts" }
+  ],
+  "rating": 5.0,
+  "location": {
+    "address1": "ul. Chmielna 13",
+    "address2": "",
+    "address3": "",
+    "city": "Warsaw",
+    "zip_code": "00-021",
+    "country": "PL",
+    "state": "MZ",
+    "display_address": ["ul. Chmielna 13", "00-021 Warsaw", "Poland"],
+    "cross_streets": ""
+  },
+  "coordinates": {
+    "latitude": 52.2327983554835,
+    "longitude": 21.0165428846374
+  },
+  "photos": [
+    "https://s3-media3.fl.yelpcdn.com/bphoto/uXBTFUfMoft7Hv0yxR_34Q/o.jpg",
+    "https://s3-media2.fl.yelpcdn.com/bphoto/Q9wiBFXoRL2g_J5WLpBvSw/o.jpg",
+    "https://s3-media4.fl.yelpcdn.com/bphoto/Wq-E--d5mQ0a9kX6sj6xKw/o.jpg"
+  ],
+  "price": "$",
+  "hours": [
+    {
+      "open": [
+        { "is_overnight": false, "start": "0900", "end": "2000", "day": 0 },
+        { "is_overnight": false, "start": "0900", "end": "2000", "day": 1 },
+        { "is_overnight": false, "start": "0900", "end": "2000", "day": 2 },
+        { "is_overnight": false, "start": "0900", "end": "2000", "day": 3 },
+        { "is_overnight": false, "start": "0900", "end": "2000", "day": 4 },
+        { "is_overnight": false, "start": "1000", "end": "2000", "day": 5 },
+        { "is_overnight": false, "start": "1000", "end": "2000", "day": 6 }
+      ],
+      "hours_type": "REGULAR",
+      "is_open_now": true
+    }
+  ],
+  "transactions": []
+}
