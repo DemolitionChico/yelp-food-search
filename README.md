@@ -1,3 +1,22 @@
+# Instructions to run this:
+
+1. clone the repository
+2. run 'yarn install'
+3. [update .env file inide the root directory](#variables-in-env-file)
+4. to run all the tests run 'yarn test'
+5. to start the application, run 'yarn start'
+
+
+## variables in env file
+for your api private key to be safe, .env file does not contain the fragile data
+to run the app, you need to create put your api key in the .env file  
+``
+REACT_APP_YELP_API_KEY=YOUR_API_KEY_VALUE
+``
+
+
+## Create react app Readme:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
